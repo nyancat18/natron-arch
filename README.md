@@ -1,7 +1,6 @@
-# Inox Browser (inox-patchset)
+# Natron
 
-Inox patchset is applied on the chromium source code and tries to prevent data transmission to Google to get a minimal Chromium based browser. The patches are split up based on features, so it's easy to patch only a subset of them.
-
+natron its a VFX software just like nuke or after effects
 Table of Contents
 * [Download](#download)
 * [Building](#building)

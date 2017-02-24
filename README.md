@@ -15,7 +15,7 @@ Table of Contents
 
 ## Download
 * **Arch Linux**:
-Pre-built binaries are hosted in the AUR: [inox-bin](https://aur.archlinux.org/packages/natron/)
+Pre-built binaries are hosted in the AUR: [natron](https://aur.archlinux.org/packages/natron/)
 
 ## Building
 
